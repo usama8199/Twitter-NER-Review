@@ -9,11 +9,13 @@ Twitter wants to automatically tag and analyze tweets for a better understanding
 
 We need to train models that will be able to identify the various named entities.
 
+![](https://lh5.googleusercontent.com/HmtK1Z8MU1mEjFKKPzy43TEKGNXhY00WUzkXYHEta8eVlkdmuYQt310zdS_LIMo92txfTP750KA9KnqAZojeSn3cjwG0v9DhpjZq-pS6Ejq6u9hEzlVbcBBSzHcwyWT23qaKpagj5SmBpwQmS8bsmRZTlAUioS4d3XfNDSMmSxqFsYCNyOzC1i7iD0v4nRzVNmITj2_JGA)
+
 # Data Description
 
 The dataset is annotated with 10 fine-grained NER categories: person, geo-location, company, facility, product,music artist, movie, sports team, tv show and other. Dataset was extracted from tweets and is structured in CoNLL format., in English language. Containing in Text file format.
 
-![](https://lh5.googleusercontent.com/HmtK1Z8MU1mEjFKKPzy43TEKGNXhY00WUzkXYHEta8eVlkdmuYQt310zdS_LIMo92txfTP750KA9KnqAZojeSn3cjwG0v9DhpjZq-pS6Ejq6u9hEzlVbcBBSzHcwyWT23qaKpagj5SmBpwQmS8bsmRZTlAUioS4d3XfNDSMmSxqFsYCNyOzC1i7iD0v4nRzVNmITj2_JGA)
+
 
 # Models
 
